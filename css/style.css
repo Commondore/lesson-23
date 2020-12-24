@@ -12,5 +12,6 @@ ul {
   list-style: none;
 }
 .nav {
-  max-width: 1000px;
+  margin: 0;
+  max-width: 800px;
 }
